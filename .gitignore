@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Don't ignore the .gitignore file itself
+!.gitignore
+
+# Don't ignore README.md
+!README.md
+
+# Don't ignore any subdirectory
+#!*/
+#!/docker-adguard/docker-compose.yml
