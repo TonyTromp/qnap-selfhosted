@@ -9,5 +9,6 @@
 
 # Don't ignore any subdirectory
 #!*/
-!docker-compose.yml
-!/docker-adguard
+!/docker-adguard/docker-compose.yml
+!/docker-adguard/conf//docker-compose.yml
+!/docker-adguard/conf/AdGuardHome.yaml
